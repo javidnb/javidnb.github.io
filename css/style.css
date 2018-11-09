@@ -12,7 +12,7 @@ body {
   color: #777777;
   text-rendering: optimizeLegibility;
   background-color: #fefefe;
-  width: 100%; }
+  overflow-x: hidden; }
 
 .loader {
   position: absolute;
