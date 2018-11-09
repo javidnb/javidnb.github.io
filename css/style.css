@@ -306,7 +306,7 @@ header {
       #services .serviceContainer {
         margin-top: -10px;
         margin-bottom: 40px; } }
-    @media screen and (max-width: 425px) {
+    @media screen and (max-width: 576px) {
       #services .serviceContainer {
         margin-top: 0px; } }
     #services .serviceContainer img {
